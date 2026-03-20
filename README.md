@@ -8,7 +8,9 @@
 
 ### 👋 About Me
 
-I am a Full-Stack Developer focused on building scalable, user-centered web applications, with hands-on experience across frontend and backend technologies, modern JavaScript frameworks, backend APIs, databases, and AI-integrated systems. I actively work with Artificial Intelligence and Machine Learning concepts, including model integration, computer vision, data processing, and AI-powered automation within real-world applications. I enjoy turning complex problems into clean, efficient solutions and continuously improving my skills through real-world projects, research, and collaboration, with a strong interest in deploying production-ready AI systems.
+I am a Full-Stack Developer and SaaS Architect dedicated to engineering scalable, user-centered digital ecosystems. With over 3 years of experience, I specialize in building multi-tenant applications using modern JavaScript frameworks, robust backend APIs, and distributed database systems.
+
+My expertise extends into the frontier of AI-as-a-Service (AIaaS), where I bridge the gap between complex software architecture and intelligent automation. I actively integrate machine learning models, computer vision, and data processing into production-ready environments to solve high-impact business challenges. I thrive on transforming complex technical requirements into clean, high-performance solutions through disciplined engineering and continuous innovation.
 
 ---
 
