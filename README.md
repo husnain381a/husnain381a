@@ -1,14 +1,14 @@
 # Hi 👋, I'm Husnain Mazhar
 
-### Full-Stack Developer
+### Full-Stack Developer | SaaS & AIaaS Architect
 
-- 👨‍💻 All of my projects are available at **[https://husnainmazhar.site](https://husnainmazhar.site)**
+- 👨‍💻 All of my projects are available at **[https://husnainmazhar.com](https://husnainmazhar.com)**
 
 ---
 
 ### 👋 About Me
 
-I am a Full-Stack Developer and SaaS Architect dedicated to engineering scalable, user-centered digital ecosystems. With over 3 years of experience, I specialize in building multi-tenant applications using modern JavaScript frameworks, robust backend APIs, and distributed database systems.
+I am a Full-Stack Developer, SaaS & AIaaS Architect dedicated to engineering scalable, user-centered digital ecosystems. With over 3 years of experience, I specialize in building multi-tenant applications using modern JavaScript frameworks, robust backend APIs, and distributed database systems.
 
 My expertise extends into the frontier of AI-as-a-Service (AIaaS), where I bridge the gap between complex software architecture and intelligent automation. I actively integrate machine learning models, computer vision, and data processing into production-ready environments to solve high-impact business challenges. I thrive on transforming complex technical requirements into clean, high-performance solutions through disciplined engineering and continuous innovation.
 
